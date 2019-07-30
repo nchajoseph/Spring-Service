@@ -1,0 +1,8 @@
+#management:
+#  security:
+#    enabled: true
+#
+#sripng:
+#  resource:
+#    chain:
+#      enabled: true
